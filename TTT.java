@@ -1,8 +1,6 @@
 /**
- * Tic Tac Toe!
- * Homework 6 - Extra Cred
+ * Tic Tac Toe
  * Created by Anthony Asilo
- * aasilo1@student.gsu.edu
  */
 import java.util.*;
 
